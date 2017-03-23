@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+#contact{
+    color: red;
+}
+h1:hover {
+  color: red;  
+}
+p {
+    color: red;
+}
